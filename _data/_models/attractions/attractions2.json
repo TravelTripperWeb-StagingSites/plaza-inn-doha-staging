@@ -1,0 +1,14 @@
+{
+    "title": "Joe's Coffee",
+    "sub_title": "Get Cafinated",
+    "featured": true,
+    "category": "Cafes",
+    "description": "<p>Open early, stop by for your morning pick-me-up and local gossip.</p>",
+    "image": {
+      "url": "/assets/stock_images/breakfast.jpg",
+      "alt": "Joe's breakfast"
+    },
+    "latitude": 40.7517385,
+    "longitude": -73.97281210000002,    
+    "order": 1
+}

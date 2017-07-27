@@ -1,0 +1,14 @@
+{
+    "title": "Big Monument",
+    "sub_title": "A must-see",
+    "category": "Sights",
+    "description": "<p>The most visited destination in town, this monument represents local history and culture.</p>",
+    "image": {
+      "url": "/assets/stock_images/tower-bridge.jpg",
+      "alt": "Monument"
+    },
+    "latitude": 40.7547385,
+    "longitude": -73.97681210000002,    
+    "featured": true,
+    "order": 1
+}
