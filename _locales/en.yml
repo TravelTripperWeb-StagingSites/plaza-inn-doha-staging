@@ -1,4 +1,6 @@
 en:
+  header:
+    book_now_button: Book Now
   footer:
     address_header: Address
     contact_header: Contact
