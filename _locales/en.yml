@@ -19,6 +19,7 @@ en:
   offers:
     buttons:
       book_now: Book Offer
+      view_all: View All Special Offers
   attractions:
     buttons:
       get_directions: Get Directions

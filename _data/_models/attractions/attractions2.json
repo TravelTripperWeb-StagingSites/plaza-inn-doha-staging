@@ -1,8 +1,8 @@
 {
     "title": "Joe's Coffee",
-    "sub_title": "Get Cafinated",
+    "sub_title": "Get caffeinated",
     "featured": true,
-    "category": "Cafes",
+    "category": "Restaurants",
     "description": "<p>Open early, stop by for your morning pick-me-up and local gossip.</p>",
     "image": {
       "url": "/assets/stock_images/breakfast.jpg",
