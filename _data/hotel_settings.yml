@@ -1,17 +1,10 @@
-latitude: 40.7507385
-longitude: -73.97681210000002
+---
+latitude: 
+longitude: 
 map_zoom: 12
-name: "Paradise Hotel"
-email: "info@traveltripper.com"
-phone_number: "1-212-683-6161"
-  
-address:
-  city: "New York"
-  country: "United States"
-  state: "NY"
-  street1: "370 Lexington Ave"
-  street2: "Suite 1601"
-  zip_code: "10017"
-  
-_hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: required-but-empty #24northhotel, demo, demohotel
+name: 
+email: 
+phone_number: 
+address: 
+_hotel_id: PLAIND
+_portal_id: plazainndoha
