@@ -4,7 +4,10 @@
     "url": "/assets/stock_images/city-view.jpg",
     "url_large": "",
     "url_medium": "",
-    "alt_text": "City View"
+    "alt_text": "City View",
+    "alt": "City View",
+    "caption": "City View",
+    "description": "City View"
   },
-  "order": 2
+  "order": 10
 }
