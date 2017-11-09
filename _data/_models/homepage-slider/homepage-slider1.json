@@ -4,7 +4,8 @@
     "url": "/assets/stock_images/lobby.jpg",
     "url_large": "",
     "url_medium": "",
-    "alt_text": "Lobby"
+    "alt_text": "Lobby",
+    "alt": "lobby"
   },
-  "order": 1
+  "order": 5
 }

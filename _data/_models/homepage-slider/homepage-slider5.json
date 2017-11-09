@@ -1,0 +1,24 @@
+{
+  "name": "Exterior View",
+  "order": 1,
+  "image": {
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-075445/Banner-Main-2.png",
+    "name": "Banner-Main-2",
+    "file_name": "banner.jpg",
+    "file_type": "image/png",
+    "tags": "",
+    "file_size": 363251,
+    "width": 733,
+    "height": 500,
+    "description": "Exterior View",
+    "date_added": "2017-10-10-061558",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-075445/large_Banner-Main-2.png",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-075445/medium_Banner-Main-2.png",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-075445/small_Banner-Main-2.png",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-075445/xsmall_Banner-Main-2.png",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-075445/thumb_Banner-Main-2.png",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-075445/Banner-Main-2.png",
+    "alt": "Exterior View",
+    "caption": "Exterior View"
+  }
+}

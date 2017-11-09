@@ -1,10 +1,23 @@
 {
-  "name": "Tower Bridge",
+  "name": "Pool",
   "image": {
-    "url": "/assets/stock_images/tower-bridge.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Tower Bridge at night"
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/pool-doha.jpg",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/large_pool-doha.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/medium_pool-doha.jpg",
+    "alt_text": "Tower Bridge at night",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/pool-doha.jpg",
+    "file_type": "image/jpeg",
+    "name": "pool-doha",
+    "tags": "",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/thumb_pool-doha.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/small_pool-doha.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/xsmall_pool-doha.jpg",
+    "width": 1150,
+    "height": 784,
+    "file_size": 1420869,
+    "alt": "Pool view",
+    "caption": "Pool view",
+    "description": "Pool view"
   },
-  "order": 3
+  "order": 2
 }
