@@ -1,6 +1,8 @@
 en:
   header:
     book_now_button: Book Now
+    language: Language
+    language_name: English
   footer:
     address_header: Address
     contact_header: Contact
