@@ -1,8 +1,8 @@
-en:
+ar:
   header:
-    book_now_button: Book Now
-    language: Language
-    language_name: English
+    book_now_button: احجز الآن
+    language: Lang
+    language_name: عربى
   footer:
     address_header: Address
     contact_header: Contact
