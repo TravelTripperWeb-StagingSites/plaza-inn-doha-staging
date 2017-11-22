@@ -1,7 +1,8 @@
+---
 ar:
   header:
     book_now_button: احجز الآن
-    language: Lang
+    language: لغة
     language_name: عربى
   footer:
     address_header: Address
@@ -11,8 +12,10 @@ ar:
     newsletter_header: Newsletter
     newsletter_input_placeholder: Your email address
   brg:
-    label: Best Rate
-    tonights_rate: Tonight's Rate
+    label: '<span style="color: #ffffff;"><span style="font-size: 16px; letter-spacing:
+      3.2px;">أفضل سعر</span></span><br />'
+    tonights_rate: '<span style="color: #ffffff;"><span style="font-size: 11px; letter-spacing:
+      normal;">سعر الليلة</span></span>'
   dining:
     buttons:
       make_a_reservation: Make A Reservation
