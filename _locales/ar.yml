@@ -2,7 +2,7 @@
 ar:
   header:
     book_now_button: احجز الآن
-    language: Lang
+    language: لغة
     language_name: عربى
   footer:
     address_header: Address
