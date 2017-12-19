@@ -5,6 +5,7 @@ map_zoom: 12
 name: 
 email: 
 phone_number: 
+default_currency: QAR
 address: 
 _hotel_id: PLAIND
 _portal_id: plazainndoha
