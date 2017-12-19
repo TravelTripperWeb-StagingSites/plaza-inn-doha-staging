@@ -1,8 +1,24 @@
 {
   "image": {
-    "alt": "",
-    "caption": "",
-    "description": ""
+    "name": "1027",
+    "file_name": "1027.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-11-22-085123/1027.jpg",
+    "tags": "",
+    "file_size": 61134,
+    "width": 800,
+    "height": 438,
+    "description": "",
+    "date_added": "2017-11-22-085123",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-11-22-085123/large_1027.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-11-22-085123/medium_1027.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-11-22-085123/small_1027.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-11-22-085123/xsmall_1027.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-11-22-085123/thumb_1027.jpg",
+    "git_file_name": "_assets/image_data/1027.json",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-11-22-085123/1027.jpg",
+    "alt": "Dining Hall",
+    "caption": ""
   },
   "menu_url": "http://www.google.com",
   "reservations_url": "http://www.google.com",
