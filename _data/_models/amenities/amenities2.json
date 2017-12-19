@@ -1,4 +1,7 @@
 {
-  "name": "Meeting room with hi-speed wifi & A/V equipment",
-  "order": 2
+  "order": 2,
+  "name_localized": {
+    "en": "Meeting room with hi-speed wifi & A/V equipment",
+    "ar": "غرفة اجتماعات مع واي فاي عالي السرعة ومعدات A / V"
+  }
 }
