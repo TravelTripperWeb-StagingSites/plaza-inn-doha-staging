@@ -1,11 +1,23 @@
 {
-  "name": "The Fancy Restaurant",
-  "tagline": "Join us for dinner",
-  "description": "<p>Info about the restaurant</p>",
   "image": {
-    "url": "/assets/stock_images/breakfast.jpg"
+    "alt": "",
+    "caption": "",
+    "description": ""
   },
   "menu_url": "http://www.google.com",
   "reservations_url": "http://www.google.com",
-  "order": 1
+  "order": 1,
+  "name_localized": {
+    "en": "The Fancy Restaurant",
+    "ar": "مطعم فاخر"
+  },
+  "tagline_localized": {
+    "en": "Join us for dinner",
+    "ar": "الانضمام إلينا لتناول العشاء"
+  },
+  "description_localized": "<p>Info about the restaurant</p>",
+  "short_description_localized": {
+    "en": "",
+    "ar": "معلومات عن المطعم"
+  }
 }
