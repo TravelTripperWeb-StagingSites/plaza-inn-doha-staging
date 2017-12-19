@@ -1,4 +1,7 @@
 {
-  "name": "Fully-equiped Gym",
-  "order": 1
+  "order": 1,
+  "name_localized": {
+    "en": "Fully-equiped Gym",
+    "ar": "صالة رياضية مجهزة تجهيزا كاملا"
+  }
 }
