@@ -1,23 +1,24 @@
 {
-  "name": "Pool",
   "image": {
-    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/pool-doha.jpg",
-    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/large_pool-doha.jpg",
-    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/medium_pool-doha.jpg",
-    "alt_text": "Tower Bridge at night",
-    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/pool-doha.jpg",
+    "name": "pool_slider",
+    "file_name": "pool_slider.jpg",
     "file_type": "image/jpeg",
-    "name": "pool-doha",
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094614/pool-slider.jpg",
     "tags": "",
-    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/thumb_pool-doha.jpg",
-    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/small_pool-doha.jpg",
-    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-11-073909/xsmall_pool-doha.jpg",
-    "width": 1150,
-    "height": 784,
-    "file_size": 1420869,
+    "file_size": 660943,
+    "width": 1200,
+    "height": 960,
+    "description": "Pool view",
+    "date_added": "2018-02-14-094614",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094614/large_pool_slider.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094614/medium_pool_slider.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094614/small_pool_slider.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094614/xsmall_pool_slider.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094614/thumb_pool_slider.jpg",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094614/pool-slider.jpg",
     "alt": "Pool view",
-    "caption": "Pool view",
-    "description": "Pool view"
+    "caption": "Pool view"
   },
-  "order": 2
+  "order": 2,
+  "name_localized": "Pool"
 }

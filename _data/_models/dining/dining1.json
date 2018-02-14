@@ -17,21 +17,23 @@
     "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-11-22-085123/thumb_1027.jpg",
     "git_file_name": "_assets/image_data/1027.json",
     "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-11-22-085123/1027.jpg",
-    "alt": "Dining Hall",
+    "alt": "The Atrium Restaurant",
     "caption": ""
   },
   "menu_url": "http://www.google.com",
   "reservations_url": "http://www.google.com",
   "order": 1,
   "name_localized": {
-    "en": "The Fancy Restaurant",
+    "en": "The Atrium Restaurant",
     "ar": "مطعم فاخر"
   },
   "tagline_localized": {
     "en": "Join us for dinner",
     "ar": "الانضمام إلينا لتناول العشاء"
   },
-  "description_localized": "<p>Info about the restaurant</p>",
+  "description_localized": {
+    "en": "<p>Our gourmet cuisine&nbsp; transforms&nbsp; regular ingredients into culinary masterpieces. Come and experience the craft that turns the simple act of eating into fine Art of Dining.</p>\n<p>The Atrium restaurant houses variety of theme&nbsp; nights from Western to Eastern specialties.</p>\n<p>Equally fascinating is the Bollywood Lounge and Restaurant that introduces exquisite Indian cuisines combined with a unique dining concept. While enjoying your meal, your eyes will capture famous Indian movies, celebrities and snapshots of the Indian culture.</p>\n<p>Grab a light meal or enjoy a sumptuous afternoon tea at our Lobby Lounge. The free Wifi internet encourages you to work, enjoy, connect and relax in the warmth of the hotel lobby.</p>"
+  },
   "short_description_localized": {
     "en": "",
     "ar": "معلومات عن المطعم"
