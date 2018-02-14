@@ -18,8 +18,8 @@ ar:
       normal;">سعر الليلة</span></span>'
   dining:
     buttons:
-      make_a_reservation: Make A Reservation
-      view_menu: View Menu
+      make_a_reservation: احجز
+      view_menu: عرض القائمة
       view_all: View All Dining Options
   offers:
     buttons:

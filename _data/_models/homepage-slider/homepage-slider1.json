@@ -1,11 +1,26 @@
 {
-  "name": "Lobby",
   "image": {
-    "url": "/assets/stock_images/lobby.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Lobby",
-    "alt": "lobby"
+    "name": "Plaza-Inn-Doha_Al-Maha-Ballroom",
+    "file_name": "Plaza-Inn-Doha_Al-Maha-Ballroom.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-093425/Plaza-Inn-Doha-Al-Maha-Ballroom.jpg",
+    "tags": "",
+    "file_size": 1708448,
+    "width": 1024,
+    "height": 819,
+    "description": "",
+    "date_added": "2018-02-14-093425",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-093425/large_Plaza-Inn-Doha_Al-Maha-Ballroom.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-093425/medium_Plaza-Inn-Doha_Al-Maha-Ballroom.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-093425/small_Plaza-Inn-Doha_Al-Maha-Ballroom.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-093425/xsmall_Plaza-Inn-Doha_Al-Maha-Ballroom.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-093425/thumb_Plaza-Inn-Doha_Al-Maha-Ballroom.jpg",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-093425/Plaza-Inn-Doha-Al-Maha-Ballroom.jpg",
+    "alt": "ballroom",
+    "caption": ""
   },
-  "order": 5
+  "order": 3,
+  "name_localized": {
+    "en": "Maha Ballroom"
+  }
 }

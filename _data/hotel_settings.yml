@@ -5,16 +5,25 @@ map_zoom: 12
 name: 
 email: 
 phone_number: 
+default_currency: QAR
 address: 
 _hotel_id: PLAIND
 _portal_id: plazainndoha
 _root_path: https://rt3api-prd-ase.ttaws.com
-logo: <img id="1507630759876" class=" " src="//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-10-061916/doha-logo.jpg"
-  data-image-large="//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-10-061916/large_doha_logo.jpg"
-  data-image-medium="//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-10-061916/medium_doha_logo.jpg"
-  data-image-small="//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-10-061916/small_doha_logo.jpg"
-  data-image-xsmall="//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-10-061916/xsmall_doha_logo.jpg"
-  data-image-thumb="//cdn.traveltripper.io/site-assets/418_810_7990/media/2017-10-10-061916/thumb_doha_logo.jpg"
+logo: <img id="1518166361586" class=" " src="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/LOGO.jpg"
+  data-image-large="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/large_LOGO.jpg"
+  data-image-medium="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/medium_LOGO.jpg"
+  data-image-small="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/small_LOGO.jpg"
+  data-image-xsmall="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/xsmall_LOGO.jpg"
+  data-image-thumb="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/thumb_LOGO.jpg"
   />&nbsp;<!-- <img id="1500298438159" class=" " src="https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-093113/logo.jpg"
   data-mce-src="https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-093113/logo.jpg"
   data-mce-selected="1"> //-->
+footer_logo: '<img id="1518166383577" class=" " style="display: block; margin-left:
+  auto; margin-right: auto;" src="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/LOGO.jpg"
+  width="138" height="178" data-image-large="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/large_LOGO.jpg"
+  data-image-medium="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/medium_LOGO.jpg"
+  data-image-small="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/small_LOGO.jpg"
+  data-image-xsmall="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/xsmall_LOGO.jpg"
+  data-image-thumb="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/thumb_LOGO.jpg"
+  />'
