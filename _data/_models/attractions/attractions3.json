@@ -1,9 +1,39 @@
 {
-    "title": "Another sight",
-    "featured": false,
-    "category": "Sights",
-    "description": "<p>You should check it out</p>",
-    "latitude": 40.7517385,
-    "longitude": -73.98081210000002,    
-    "order": 1
+  "featured": true,
+  "category": "Sights",
+  "latitude": 25.3144,
+  "longitude": 51.5216,
+  "order": 3,
+  "title_localized": {
+    "en": "Doha Corniche"
+  },
+  "description_localized": {
+    "en": "<p>The Doha Corniche is a waterfront promenade extending for seven kilometers along Doha Bay in the capital city of Doha, the state of Qatar.</p>"
+  },
+  "website_url": "Doha Corniche",
+  "image": {
+    "name": "corniche",
+    "file_name": "corniche.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054903/corniche.jpg",
+    "tags": "",
+    "file_size": 1644608,
+    "width": 1920,
+    "height": 1080,
+    "description": "",
+    "date_added": "2018-02-15-054903",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054903/large_corniche.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054903/medium_corniche.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054903/small_corniche.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054903/xsmall_corniche.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054903/thumb_corniche.jpg",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054903/corniche.jpg",
+    "alt": "corniche",
+    "caption": ""
+  },
+  "city": "Doha",
+  "country": "Doha",
+  "sub_title_localized": {
+    "en": "A Waterfront Promenade"
+  }
 }
