@@ -2,11 +2,11 @@
 latitude: 
 longitude: 
 map_zoom: 12
-name: 
-email: 
-phone_number: 
+name: Plaza Inn Doha
+email: info@plazainn.com.qa
+phone_number: +974 4422 1111
 default_currency: QAR
-address: 
+address: PO Box 22920, Doha, Qatar
 _hotel_id: PLAIND
 _portal_id: plazainndoha
 _root_path: https://rt3api-prd-ase.ttaws.com
