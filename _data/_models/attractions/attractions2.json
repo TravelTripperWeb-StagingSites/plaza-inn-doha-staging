@@ -1,14 +1,38 @@
 {
-    "title": "Joe's Coffee",
-    "sub_title": "Get caffeinated",
-    "featured": true,
-    "category": "Restaurants",
-    "description": "<p>Open early, stop by for your morning pick-me-up and local gossip.</p>",
-    "image": {
-      "url": "/assets/stock_images/breakfast.jpg",
-      "alt": "Joe's breakfast"
-    },
-    "latitude": 40.7517385,
-    "longitude": -73.97281210000002,    
-    "order": 1
+  "featured": true,
+  "category": "Activities",
+  "image": {
+    "name": "Souq_Waqif,_Doha,_Catar,_2013-08-05,_DD_84",
+    "file_name": "Souq_Waqif,_Doha,_Catar,_2013-08-05,_DD_84.JPG",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054000/Souq-Waqif--Doha--Catar--2013-08-05--DD-84.JPG",
+    "tags": "",
+    "file_size": 248307,
+    "width": 1200,
+    "height": 717,
+    "description": "",
+    "date_added": "2018-02-15-054000",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054000/large_Souq_Waqif__Doha__Catar__2013-08-05__DD_84.JPG",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054000/medium_Souq_Waqif__Doha__Catar__2013-08-05__DD_84.JPG",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054000/small_Souq_Waqif__Doha__Catar__2013-08-05__DD_84.JPG",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054000/xsmall_Souq_Waqif__Doha__Catar__2013-08-05__DD_84.JPG",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054000/thumb_Souq_Waqif__Doha__Catar__2013-08-05__DD_84.JPG",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-054000/Souq-Waqif--Doha--Catar--2013-08-05--DD-84.JPG",
+    "alt": "Souq",
+    "caption": ""
+  },
+  "latitude": 25.2884,
+  "longitude": 51.5324,
+  "order": 2,
+  "title_localized": {
+    "en": "Souq Waqif"
+  },
+  "sub_title_localized": {
+    "en": "Get busy shopping"
+  },
+  "description_localized": {
+    "en": "<p>The souq is considered one of the best location for tourists within Doha. Thousands of people from across the region frequent it to purchase traditional goods. It hosts several art galleries, events and local concerts.</p>"
+  },
+  "city": "Doha",
+  "country": "Qatar"
 }

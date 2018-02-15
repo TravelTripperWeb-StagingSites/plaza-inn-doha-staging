@@ -1,4 +1,6 @@
 {
+  "featured": true,
+  "category": "Restaurants",
   "image": {
     "name": "plaza inn doha_the atrium restaurant_slider",
     "file_name": "plaza inn doha_the atrium restaurant_slider.jpg",
@@ -17,17 +19,24 @@
     "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/thumb_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
     "git_file_name": "_assets/image_data/plaza inn doha_the atrium restaurant_slider.json",
     "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/plaza-inn-doha-the-atrium-restaurant-slider.jpg",
-    "alt": "restaurant",
+    "alt": "atrium",
     "caption": ""
   },
-  "menu_url": "http://www.google.com",
-  "reservations_url": "",
-  "order": 2,
-  "name_localized": {
+  "address1": "AL MEENA STREET",
+  "address2": "OLD SALATA",
+  "city": "Doha",
+  "country": "Qatar",
+  "zip": "22920",
+  "latitude": 25.287183,
+  "longitude": 51.543838999999934,
+  "order": 4,
+  "title_localized": {
     "en": "The Atrium Restaurant"
   },
-  "tagline_localized": {
-    "en": "Dine with us"
+  "sub_title_localized": {
+    "en": "Come Dine with us"
   },
-  "description_localized": "<p>Info about the bar</p>"
+  "description_localized": {
+    "en": "<p>Our gourmet cuisine&nbsp; transforms&nbsp; regular ingredients into culinary masterpieces. Come and experience the craft that turns the simple act of eating into fine Art of Dining.</p>"
+  }
 }
