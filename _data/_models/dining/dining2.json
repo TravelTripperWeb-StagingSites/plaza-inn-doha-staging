@@ -1,11 +1,33 @@
 {
-  "name": "The Bar",
-  "tagline": "Have a drink with us",
-  "description": "<p>Info about the bar</p>",
   "image": {
-    "url": "/assets/stock_images/outdoor-restaurant.jpg"
+    "name": "plaza inn doha_the atrium restaurant_slider",
+    "file_name": "plaza inn doha_the atrium restaurant_slider.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/plaza-inn-doha-the-atrium-restaurant-slider.jpg",
+    "tags": "",
+    "file_size": 1243527,
+    "width": 1200,
+    "height": 960,
+    "description": "",
+    "date_added": "2018-02-14-094438",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/large_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/medium_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/small_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/xsmall_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/thumb_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "git_file_name": "_assets/image_data/plaza inn doha_the atrium restaurant_slider.json",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/plaza-inn-doha-the-atrium-restaurant-slider.jpg",
+    "alt": "restaurant",
+    "caption": ""
   },
   "menu_url": "http://www.google.com",
   "reservations_url": "",
-  "order": 2
+  "order": 2,
+  "name_localized": {
+    "en": "The Atrium Restaurant"
+  },
+  "tagline_localized": {
+    "en": "Dine with us"
+  },
+  "description_localized": "<p>Info about the bar</p>"
 }
