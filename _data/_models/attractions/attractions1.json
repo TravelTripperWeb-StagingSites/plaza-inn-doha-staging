@@ -1,14 +1,39 @@
 {
-    "title": "Big Monument",
-    "sub_title": "A must-see",
-    "category": "Sights",
-    "description": "<p>The most visited destination in town, this monument represents local history and culture.</p>",
-    "image": {
-      "url": "/assets/stock_images/tower-bridge.jpg",
-      "alt": "Monument"
-    },
-    "latitude": 40.7547385,
-    "longitude": -73.97681210000002,    
-    "featured": true,
-    "order": 1
+  "category": "Sights",
+  "image": {
+    "name": "MIA",
+    "file_name": "MIA.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-053515/MIA.jpg",
+    "tags": "",
+    "file_size": 62235,
+    "width": 1024,
+    "height": 678,
+    "description": "",
+    "date_added": "2018-02-15-053515",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-053515/large_MIA.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-053515/medium_MIA.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-053515/small_MIA.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-053515/xsmall_MIA.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-053515/thumb_MIA.jpg",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-15-053515/MIA.jpg",
+    "alt": "Monument",
+    "caption": ""
+  },
+  "latitude": 25.3548,
+  "longitude": 51.1839,
+  "featured": true,
+  "order": 1,
+  "title_localized": {
+    "en": "Qatar Islamic Museum"
+  },
+  "sub_title_localized": {
+    "en": "Traditional Islamic architecture meets the 21st century"
+  },
+  "description_localized": {
+    "en": "<p>The museum building has rapidly become an iconic feature of the Doha landscape. Standing alone on reclaimed land, the building draws much influence from ancient Islamic architecture, notably the Ibn Tulun Mosque in Cairo.</p>\n<p>Designed by Pritzker Prize-winning architect I.M. Pei, the Museum is comprised of a main building with an adjacent education wing connected by a large central courtyard. The main building rises five-storeys, topped by a high domed atrium within a central tower.</p>\n<p>The cream-coloured limestone captures the changes in light and shade during the day.</p>\n<p>The interior is no less spectacular. The centrepiece of the atrium is a curved double staircase leading up to the first floor. Above it floats an ornate circular metal chandelier echoing the curve of the staircase.</p>\n<p>An oculus, at the top of the atrium, captures and reflects patterned light within the faceted dome. The five-storey 45-metre tall window on the north side gives spectacular panoramic views across the bay.</p>\n<p>The geometric patterns of the Islamic world adorn the spaces, including the ceilings of the elevators. A variety of textures and materials from wood and stone has created a unique environment for the museum&rsquo;s stunning collections.</p>\n<p>You can find out more about the architecture of the museum in the MIA Library and there are also several books available from the Museum Gift Shop.</p>"
+  },
+  "city": "Doha",
+  "country": "Qatar",
+  "website_url": "http://www.mia.org.qa/en/"
 }
