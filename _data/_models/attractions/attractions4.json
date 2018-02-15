@@ -1,0 +1,42 @@
+{
+  "featured": true,
+  "category": "Restaurants",
+  "image": {
+    "name": "plaza inn doha_the atrium restaurant_slider",
+    "file_name": "plaza inn doha_the atrium restaurant_slider.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/plaza-inn-doha-the-atrium-restaurant-slider.jpg",
+    "tags": "",
+    "file_size": 1243527,
+    "width": 1200,
+    "height": 960,
+    "description": "",
+    "date_added": "2018-02-14-094438",
+    "url_large": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/large_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/medium_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/small_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/xsmall_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/thumb_plaza_inn_doha_the_atrium_restaurant_slider.jpg",
+    "git_file_name": "_assets/image_data/plaza inn doha_the atrium restaurant_slider.json",
+    "path": "//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-14-094438/plaza-inn-doha-the-atrium-restaurant-slider.jpg",
+    "alt": "atrium",
+    "caption": ""
+  },
+  "address1": "AL MEENA STREET",
+  "address2": "OLD SALATA",
+  "city": "Doha",
+  "country": "Qatar",
+  "zip": "22920",
+  "latitude": 25.287183,
+  "longitude": 51.543838999999934,
+  "order": 4,
+  "title_localized": {
+    "en": "The Atrium Restaurant"
+  },
+  "sub_title_localized": {
+    "en": "Come Dine with us"
+  },
+  "description_localized": {
+    "en": "<p>Our gourmet cuisine&nbsp; transforms&nbsp; regular ingredients into culinary masterpieces. Come and experience the craft that turns the simple act of eating into fine Art of Dining.</p>"
+  }
+}
