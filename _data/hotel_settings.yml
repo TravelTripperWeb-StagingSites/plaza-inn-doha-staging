@@ -4,7 +4,7 @@ longitude: 51.543838999999934
 map_zoom: 12
 name: Plaza Inn Doha
 email: info@plazainn.com.qa
-phone_number: +974 4422 1111
+phone_number: "+974 4422 1111"
 default_currency: QAR
 address: PO Box 22920, Doha, Qatar
 _hotel_id: PLAIND
@@ -20,7 +20,7 @@ logo: <img id="1518689611970" class=" " src="//cdn.traveltripper.io/site-assets/
   data-mce-src="https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-093113/logo.jpg"
   data-mce-selected="1"> //-->
 footer_logo: '<img id="1518166383577" class=" " style="display: block; margin-left:
-  auto; margin-right: auto;" src="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/LOGO.jpg"
+  auto; margin-right: auto; float: left;" src="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/LOGO.jpg"
   width="138" height="178" data-image-large="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/large_LOGO.jpg"
   data-image-medium="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/medium_LOGO.jpg"
   data-image-small="//cdn.traveltripper.io/site-assets/418_810_7990/media/2018-02-09-035241/small_LOGO.jpg"
