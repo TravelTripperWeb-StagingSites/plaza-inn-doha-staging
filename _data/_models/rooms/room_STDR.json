@@ -1,0 +1,60 @@
+{
+  "name_localized": {
+    "en": "STANDARD ROOM",
+    "ar": "STANDARD ROOM"
+  },
+  "short_description_localized": {
+    "en": "STANDARD ROOM",
+    "ar": "STANDARD ROOM"
+  },
+  "description_localized": {
+    "en": "Stay in a cozy room with Queen Size Bed, with High-Definition LCD Television and City View. Standard Room can accommodate from 1 up to 2 adults. Measuring 23 Sqm. Non-Smoking Rooms available.",
+    "ar": "Stay in a cozy room with Queen Size Bed, with High-Definition LCD Television and City View. Standard Room can accommodate from 1 up to 2 adults. Measuring 23 Sqm. Non-Smoking Rooms available."
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Bath Tub and/or Shower Stall"
+      },
+      {
+        "name": "Inter Connecting Rooms"
+      }
+    ],
+    "ar": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Bath Tub and/or Shower Stall"
+      },
+      {
+        "name": "Inter Connecting Rooms"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "STANDARD ROOM",
+      "description": "Stay in a cozy room with Queen Size Bed, with High-Definition LCD Television and City View. Standard Room can accommodate from 1 up to 2 adults. Measuring 23 Sqm. Non-Smoking Rooms available.",
+      "alt": "STANDARD ROOM",
+      "url": "https://d20vdwe7v4ibxb.cloudfront.net/1832/27251_2_yankee_large.jpg"
+    },
+    {
+      "caption": "STANDARD ROOM",
+      "description": "Stay in a cozy room with Queen Size Bed, with High-Definition LCD Television and City View. Standard Room can accommodate from 1 up to 2 adults. Measuring 23 Sqm. Non-Smoking Rooms available.",
+      "alt": "STANDARD ROOM",
+      "url": "https://d20vdwe7v4ibxb.cloudfront.net/1832/30311_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "STDR",
+  "order": 1
+}

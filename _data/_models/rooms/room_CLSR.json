@@ -1,0 +1,60 @@
+{
+  "name_localized": {
+    "en": "CLASSIC ROOM",
+    "ar": "CLASSIC ROOM"
+  },
+  "short_description_localized": {
+    "en": "CLASSIC ROOM",
+    "ar": "CLASSIC ROOM"
+  },
+  "description_localized": {
+    "en": "Comfortable and well equipped, Classic Rooms feature a Single King / Queen bed or two Single Beds. Measuring 28 Sqm, the room includes a sitting area and a marble bath room.  It can accommodate a maximum of two adults and one child with the existing bedding.  Extra bed is available at a charge. \r\nNon-Smoking Rooms available.",
+    "ar": "Comfortable and well equipped, Classic Rooms feature a Single King / Queen bed or two Single Beds. Measuring 28 Sqm, the room includes a sitting area and a marble bath room.  It can accommodate a maximum of two adults and one child with the existing bedding.  Extra bed is available at a charge. \r\nNon-Smoking Rooms available."
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "King Size Bed"
+      },
+      {
+        "name": "Twin Bed"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Separate Bath Tub & Shower"
+      }
+    ],
+    "ar": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "King Size Bed"
+      },
+      {
+        "name": "Twin Bed"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Separate Bath Tub & Shower"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "CLASSIC ROOM",
+      "description": "Comfortable and well equipped, Classic Rooms feature a Single King / Queen bed or two Single Beds. Measuring 28 Sqm, the room includes a sitting area and a marble bath room.  It can accommodate a maximum of two adults and one child with the existing bedding.  Extra bed is available at a charge. \r\nNon-Smoking Rooms available.",
+      "alt": "CLASSIC ROOM",
+      "url": "https://d20vdwe7v4ibxb.cloudfront.net/1832/27252_2_yankee_large.JPG"
+    }
+  ],
+  "reztrip_room_id": "CLSR",
+  "order": 2
+}
