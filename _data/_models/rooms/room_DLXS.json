@@ -1,0 +1,78 @@
+{
+  "name_localized": {
+    "en": "DELUXE SUITE",
+    "ar": "DELUXE SUITE"
+  },
+  "short_description_localized": {
+    "en": "DELUXE SUITE",
+    "ar": "DELUXE SUITE"
+  },
+  "description_localized": {
+    "en": "Spacious and Luxuriously Appointed, the Deluxe Suite offers the Space and extra Comfort to entertain visitors and family. Measuring 41- 54 Sqm, this spacious suite features a Queen or King size bed and a Separate Contemporary Lounge Area with Comfortable Sofas, Working Desk and Dining Table. The Suite offers spectacular views of the Corniche and West Bay area. Non-Smoking Rooms available\"",
+    "ar": "Spacious and Luxuriously Appointed, the Deluxe Suite offers the Space and extra Comfort to entertain visitors and family. Measuring 41- 54 Sqm, this spacious suite features a Queen or King size bed and a Separate Contemporary Lounge Area with Comfortable Sofas, Working Desk and Dining Table. The Suite offers spectacular views of the Corniche and West Bay area. Non-Smoking Rooms available\""
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "King Size Bed"
+      },
+      {
+        "name": "Dining Table"
+      },
+      {
+        "name": "Sofa Bed"
+      },
+      {
+        "name": "Sitting Area"
+      },
+      {
+        "name": "Espresso Machine"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Separate Bath Tub & Shower"
+      }
+    ],
+    "ar": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "King Size Bed"
+      },
+      {
+        "name": "Dining Table"
+      },
+      {
+        "name": "Sofa Bed"
+      },
+      {
+        "name": "Sitting Area"
+      },
+      {
+        "name": "Espresso Machine"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Separate Bath Tub & Shower"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "DELUXE SUITE",
+      "description": "Spacious and Luxuriously Appointed, the Deluxe Suite offers the Space and extra Comfort to entertain visitors and family. Measuring 41- 54 Sqm, this spacious suite features a Queen or King size bed and a Separate Contemporary Lounge Area with Comfortable Sofas, Working Desk and Dining Table. The Suite offers spectacular views of the Corniche and West Bay area. Non-Smoking Rooms available\"",
+      "alt": "DELUXE SUITE",
+      "url": "https://d20vdwe7v4ibxb.cloudfront.net/1832/27254_2_yankee_large.JPG"
+    }
+  ],
+  "reztrip_room_id": "DLXS",
+  "order": 4
+}

@@ -1,0 +1,72 @@
+{
+  "name_localized": {
+    "en": "DELUXE ROOM",
+    "ar": "DELUXE ROOM"
+  },
+  "short_description_localized": {
+    "en": "JUNIOR SUITE",
+    "ar": "JUNIOR SUITE"
+  },
+  "description_localized": {
+    "en": "Designed for the comfort and convenience of a global business traveler, Measuring 41- 50 Sqm the Deluxe Room offer a relaxing ambiance with a comfortable King / Queen / Twin size bed and a spacious Living Area with comfortable seating and a Working Desk. The Suite can accommodate a maximum of two adults and two child with the existing bedding. Extra Bed is available on with an extra charge. Non-Smoking Rooms available.",
+    "ar": "Designed for the comfort and convenience of a global business traveler, Measuring 41- 50 Sqm the Deluxe Room offer a relaxing ambiance with a comfortable King / Queen / Twin size bed and a spacious Living Area with comfortable seating and a Working Desk. The Suite can accommodate a maximum of two adults and two child with the existing bedding. Extra Bed is available on with an extra charge. Non-Smoking Rooms available."
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "King Size Bed"
+      },
+      {
+        "name": "Twin Bed"
+      },
+      {
+        "name": "Sofa Bed"
+      },
+      {
+        "name": "Sitting Area"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Separate Bath Tub & Shower"
+      }
+    ],
+    "ar": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "King Size Bed"
+      },
+      {
+        "name": "Twin Bed"
+      },
+      {
+        "name": "Sofa Bed"
+      },
+      {
+        "name": "Sitting Area"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Separate Bath Tub & Shower"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "DELUXE ROOM",
+      "description": "Designed for the comfort and convenience of a global business traveler, Measuring 41- 50 Sqm the Junior Suites offer a relaxing ambiance with a comfortable King / Queen / Twin size bed and a spacious Living Area with comfortable seating and a Working Desk. The Suite can accommodate a maximum of two adults and two child with the existing bedding. Extra Bed is available on with an extra charge. Non-Smoking Rooms available.",
+      "alt": "DELUXE ROOM",
+      "url": "https://d20vdwe7v4ibxb.cloudfront.net/1832/27253_2_yankee_large.JPG"
+    }
+  ],
+  "reztrip_room_id": "DLXR",
+  "order": 3
+}

@@ -1,0 +1,78 @@
+{
+  "name_localized": {
+    "en": "EXECUTIVE SUITE",
+    "ar": "EXECUTIVE SUITE"
+  },
+  "short_description_localized": {
+    "en": "EXECUTIVE SUITE",
+    "ar": "EXECUTIVE SUITE"
+  },
+  "description_localized": {
+    "en": "Measuring 61 Sqm,  all of our Luxuriously Appointed Extra-Large Executive Suites are designed to complement the lifestyle of today’s discerning business travelers or families with the need for extra space and comfort. Executive Suites feature Bedrooms with Queen or King Size Beds and a Separate Contemporary Large Lounge Area with Modern Comfortable Sofas and a Working Desk. All Executive Suites offers spectacular views of the Corniche and West Bay Area. Non-Smoking Rooms available.",
+    "ar": "Measuring 61 Sqm,  all of our Luxuriously Appointed Extra-Large Executive Suites are designed to complement the lifestyle of today’s discerning business travelers or families with the need for extra space and comfort. Executive Suites feature Bedrooms with Queen or King Size Beds and a Separate Contemporary Large Lounge Area with Modern Comfortable Sofas and a Working Desk. All Executive Suites offers spectacular views of the Corniche and West Bay Area. Non-Smoking Rooms available."
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "King Size Bed"
+      },
+      {
+        "name": "Dining Table"
+      },
+      {
+        "name": "Sofa Bed"
+      },
+      {
+        "name": "Sitting Area"
+      },
+      {
+        "name": "Espresso Machine"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Separate Bath Tub & Shower"
+      }
+    ],
+    "ar": [
+      {
+        "name": "Queen Size Bed"
+      },
+      {
+        "name": "King Size Bed"
+      },
+      {
+        "name": "Dining Table"
+      },
+      {
+        "name": "Sofa Bed"
+      },
+      {
+        "name": "Sitting Area"
+      },
+      {
+        "name": "Espresso Machine"
+      },
+      {
+        "name": "Make Up Mirror"
+      },
+      {
+        "name": "Separate Bath Tub & Shower"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "EXECUTIVE SUITE",
+      "description": "Measuring 61 Sqm,  all of our Luxuriously Appointed Extra-Large Executive Suites are designed to complement the lifestyle of today’s discerning business travelers or families with the need for extra space and comfort. Executive Suites feature Bedrooms with Queen or King Size Beds and a Separate Contemporary Large Lounge Area with Modern Comfortable Sofas and a Working Desk. All Executive Suites offers spectacular views of the Corniche and West Bay Area. Non-Smoking Rooms available.",
+      "alt": "EXECUTIVE SUITE",
+      "url": "https://d20vdwe7v4ibxb.cloudfront.net/1832/27255_16_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "EXCS",
+  "order": 5
+}
